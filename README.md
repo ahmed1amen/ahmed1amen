@@ -2,10 +2,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/ahmed1amen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed1amen&count_private=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed1amen&count_private=true&theme=react" /> 
 </a>
 <a href="https://github.com/ahmed1amen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1amen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1amen&theme=radical&theme=react" />
 </a>
 
 ## Preferred Languages.
