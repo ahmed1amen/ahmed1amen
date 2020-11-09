@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed1amen&count_private=true&theme=react&show_icons=true" /> 
 </a>
 <a href="https://github.com/ahmed1amen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1amen&theme=react&langs_count=16" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1amen&theme=react&langs_count=16&hide=css,html" />
 </a>
 
 ## Preferred Languages.
