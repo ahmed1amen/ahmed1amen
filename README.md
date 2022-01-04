@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-# I'm [Ahmed](https://ahmedamen.com), Software Engineer and Security Enthusiast, always looking for new ventures where I can apply my expertise, learn and evolve.
+# I'm [Ahmed](https://ahmedamen.com), Software Engineer and Security Enthusiast, I’m a driven individual with the ability to adapt to any situation and proven potential to grow self and other, enable all parties involved to find and reach their potential (whether it's the business or employees).
 
 <a href="https://github.com/ahmed1amen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed1amen&count_private=true&theme=react&show_icons=true" /> 
