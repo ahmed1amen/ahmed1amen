@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1amen&theme=react&langs_count=16&hide=css,html,scss,blade" />
 </a>
 
-![Profile views](https://gpvc.arturio.dev/ahmed1amen)
+![Profile views](https://komarev.com/ghpvc/?username=ahmed1amen)
 ## Preferred Languages.
 <div>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
